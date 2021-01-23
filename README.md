@@ -1,5 +1,4 @@
-# AlchemyCraft
-## Welcome to AlchemyCraft on GitHub
+# Welcome to AlchemyCraft on GitHub
 
 ### My Discord
 
