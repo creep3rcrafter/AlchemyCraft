@@ -7,8 +7,8 @@ Im also looking for co developers on the project.
 #### Snakeman#3236
 
 ### Ideas in progress
--Looking for more ideas and people that wanna try to implement some of them
--interested in people that wanna make textures for everything
+-Looking for more ideas and people that wanna try to implement some of them.
+-interested in people that wanna make textures for everything.
 * beakers
   * Holds fluids
     * Used to mix small amounts of chemicals and potions
