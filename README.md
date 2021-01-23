@@ -11,6 +11,10 @@ Im also looking for co developers on the project.
 * Items
   * beakers
     * Holdsfluids
+    * Used to mix small amounts of chemicals and potions
+  * Ingots
+    * Copper, Silver, Cobalt, Titanium, Hellstone, void, bronze, electrum, chrome, lead
+      uranium, aluminium, brass, steel, tin, nickel, invar, platinum, adimantine, tungsten
 
 
 
