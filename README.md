@@ -6,6 +6,15 @@ If you have any questions or if you wanna help work on the project please contac
 Im also looking for co developers on the project.
 #### Snakeman#3236
 
+### Ideas in progress
+
+* Items
+  * beakers
+    * Holdsfluids
+
+
+
+
 ### Reporting an issue
 
 Please open an issue for a bug report only if:
