@@ -1,0 +1,16 @@
+[
+{
+  "modid": "alchemycraft",
+  "name": "AlchemyCraft",
+  "description": "Description: Mystical Tech...?",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Creep3rCrafter"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
