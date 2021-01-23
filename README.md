@@ -4,7 +4,7 @@
 ### My Discord
 
 if you have any questions or if you wanna help work on the project please contact me im really hopeing to start a community with it.
-#####Snakeman#3236
+#### Snakeman#3236
 
 ### Reporting an issue
 
