@@ -6,6 +6,33 @@ If you have any questions or if you wanna help work on the project please contac
 Im also looking for co developers on the project.
 #### Snakeman#3236
 
+### Ideas in progress
+-Looking for more ideas and people that wanna try to implement some of them.
+-interested in people that wanna make textures for everything.
+* beakers
+  * Holds fluids
+    * Used to mix small amounts of chemicals and potions
+* viles
+  * Holds fluids
+    * Used to mix small amounts of chemicals and potions
+  * Ingots
+    * Copper, Silver, Cobalt, Titanium, Hellstone, void, bronze, electrum, chrome, lead
+      uranium, Aluminium, Brass, Steel, Tin, Nickel, Invar, Platinum, Adimantine, Tungsten
+    * sub types of Ingots
+      * Gears, Ingot Blocks, Nuggets, Dust, Tools, Armor, Ore
+* Alchemists Engine
+  * Mixes different potions and materials to generate energy
+* Powered TNT
+  * Takes input of rf-FE
+  * Explodes with a power based on how much energy is in it when it is activated with redstone
+* RF-FE to EMC - if Project E is installed
+  * Converts rf to emc
+* bottle of energy
+  * Vile subtype
+  * Beaker subtype
+  * Items that stores RF-FE when thrown breaks and summons a lightning strike
+
+
 ### Reporting an issue
 
 Please open an issue for a bug report only if:
