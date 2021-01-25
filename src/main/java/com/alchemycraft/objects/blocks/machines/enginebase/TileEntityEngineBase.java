@@ -63,7 +63,7 @@ public class TileEntityEngineBase extends TileEnergyHandler implements ITickable
 			}
 		}else {
 			canConnect = false;
-		}
+		}a
 		*/
 		if (getBlockMetadata() % 2 == 1) {
 			canConnect =
