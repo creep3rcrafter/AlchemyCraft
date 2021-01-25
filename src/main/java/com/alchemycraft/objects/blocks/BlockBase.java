@@ -22,6 +22,14 @@ public class BlockBase extends Block implements IHasModel{
 		BlockInit.BLOCKS.add(this);
 		ItemInit.ITEMS.add(new ItemBlock(this).setRegistryName(this.getRegistryName()));
 	}
+	public BlockBase(String name, Material material, CreativeTabs tab) {
+		super(material);
+		setUnlocalizedName(name);
+		setRegistryName(Reference.MODID + ":" + name);
+		setCreativeTab(tab);
+		BlockInit.BLOCKS.add(this);
+		ItemInit.ITEMS.add(new ItemBlock(this).setRegistryName(this.getRegistryName()));
+	}
 	@Override
 	public void registerModels() {
 		AlchemyCraft.proxy.RegisterItemRenderer(Item.getItemFromBlock(this), 0, "inventory");

@@ -8,6 +8,7 @@ import com.alchemycraft.objects.blocks.machines.enginebase.BlockEngineBase;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.tileentity.TileEntity;
 
 public class BlockInit {
@@ -35,5 +36,8 @@ public class BlockInit {
 	public static final Block adimantineBlock = new BlockBase("block_adimantine", Material.IRON);
 	public static final Block tungstenBlock = new BlockBase("block_tungsten", Material.IRON);
 	
-	public static final Block engineTesting = new BlockEngineBase("engine_testing", Material.IRON);
+	public static final Block poweredTNT = new BlockBase("powered_tnt", Material.IRON, CreativeTabs.REDSTONE);
+	
+	public static final Block engineTesting = new BlockEngineBase("engine_testing", Material.IRON, BlockInit.engineTesting);
+	public static final Block engineAlchemst = new BlockEngineBase("engine_alchemist", Material.IRON, BlockInit.engineAlchemst);
 }
