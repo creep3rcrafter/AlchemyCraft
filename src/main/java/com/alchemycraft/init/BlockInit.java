@@ -4,7 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.alchemycraft.objects.blocks.BlockBase;
+import com.alchemycraft.objects.blocks.machines.enginebase.BlockAlchemistEngine;
 import com.alchemycraft.objects.blocks.machines.enginebase.BlockEngineBase;
+import com.alchemycraft.objects.blocks.machines.enginebase.BlockEngineBasic;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
@@ -38,6 +40,6 @@ public class BlockInit {
 	
 	public static final Block poweredTNT = new BlockBase("powered_tnt", Material.IRON, CreativeTabs.REDSTONE);
 	
-	public static final Block engineTesting = new BlockEngineBase("engine_testing", Material.IRON, BlockInit.engineTesting);
-	public static final Block engineAlchemst = new BlockEngineBase("engine_alchemist", Material.IRON, BlockInit.engineAlchemst);
+	public static final Block engineBasic = new BlockEngineBasic("engine_basic", Material.IRON, BlockInit.engineBasic);
+	public static final Block engineAlchemst = new BlockAlchemistEngine("engine_alchemist", Material.IRON, BlockInit.engineAlchemst);
 }

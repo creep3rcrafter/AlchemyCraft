@@ -1,5 +1,5 @@
 {
-   "parent": "alchemycraft:block/engine_testing",
+   "parent": "alchemycraft:block/engine_basic",
    "display": {
       "thirdperson": {
          "rotation": [10,-45,170],

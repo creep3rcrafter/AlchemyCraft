@@ -279,5 +279,5 @@ item.leggings_tungsten.name=Tungsten Leggings
 item.boots_tungsten.name=Tungsten Boots
 tile.block_tungsten.name=Tungsten Block
 tile.powered_tnt.name=Powered TNT
-tile.engine_testing.name=Test Engine
+tile.engine_basic.name=Basic Engine
 tile.engine_alchemist.name=Alchemist Engine

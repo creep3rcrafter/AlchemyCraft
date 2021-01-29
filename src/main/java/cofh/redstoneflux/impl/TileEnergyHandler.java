@@ -32,7 +32,7 @@ public class TileEnergyHandler extends TileEntity implements IEnergyReceiver, IE
 	public NBTTagCompound writeToNBT(NBTTagCompound nbt) {
 
 		super.writeToNBT(nbt);
-		storage.writeToNBT(nbt);
+		
 		return nbt;
 	}
 
