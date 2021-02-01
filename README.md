@@ -31,6 +31,10 @@ Im also looking for co developers on the project.
   * Vile subtype
   * Beaker subtype
   * Items that stores RF-FE when thrown breaks and summons a lightning strike
+* Trees
+  * Olive, Radiated, Orange
+* Plants
+  * Grape, Peppers
 
 
 ### Reporting an issue
