@@ -32,9 +32,16 @@ Im also looking for co developers on the project.
   * Beaker subtype
   * Items that stores RF-FE when thrown breaks and summons a lightning strike
 * Trees
-  * Olive, Radiated, Orange
+  * Olive, Radiated, Orange, BANNANA
 * Plants
-  * Grape, Peppers
+  * Grape, Peppers, Corn
+* Bosses
+  * Venus Fly Trap
+* Enchantments
+  * Chain Lightning, Returning
+* Weapons
+  * Throwing Knives
+
 
 
 ### Reporting an issue
